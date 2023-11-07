@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Madan Surthani</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Meri Skill**
+- 🔭 I’m currently working on **INTERN CAREER**
 
 - 🌱 I’m currently learning **#Data analysis**
 
@@ -25,5 +25,5 @@
 Support 🙏
 Are you using the tool and happy with it to create your GitHub Profile?
 Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
+tweet GitHub profile readme generator
+Let the world know how you feel using this tool. Share with others on Twitter.
