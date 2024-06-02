@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Madan Surthani</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Nano Lernal Limited**
+- 🔭 I’m currently working on **Nano Kernal Limited**
 
 - 🌱 I’m currently learning **#Data analysis**
 
